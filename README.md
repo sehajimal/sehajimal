@@ -4,7 +4,7 @@ I'm Sehaj, a 2nd year Software Engineering Student at McMaster University!
 check out some of my code here!
 
 contact me at sehajimal@gmail.com
-[LinkedIn](https://www.linkedin.com/in/sehajimal)
+[LinkedIn](https://www.linkedin.com/in/sehajajimal)
 
 
 
