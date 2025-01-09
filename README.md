@@ -4,6 +4,10 @@ I'm Sehaj, a 2nd year Software Engineering Student at McMaster University!
 check out some of my code here!
 
 contact me at sehajimal@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sehajimal)
+
+
+
 
 <!--
 **sehajimal/sehajimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
