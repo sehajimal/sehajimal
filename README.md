@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Sehaj, a 3rd year Software Engineering Student at McMaster University!
+I'm Sehaj, a Software Engineering Student at McMaster University!
 
 check out some of my code here!
 
