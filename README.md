@@ -3,7 +3,7 @@ I'm Sehaj, a Software Engineering Student at McMaster University!
 
 check out some of my code here!
 
-contact me at sehajimal@gmail.com
+contact me at ajimals@mcmaster.ca
 [LinkedIn](https://www.linkedin.com/in/sehajajimal)
 
 
