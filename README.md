@@ -3,6 +3,12 @@ I'm Sehaj, a Software Engineering Student at McMaster University!
 
 check out some of my code here!
 
+What I am Passionate about
+🧠 Exploring Agentic AI systems that reason and act autonomously
+🤖 Passionate about machine learning and intelligent automation
+⚙️ Enthusiastic about system design and scalable architectures
+🌍 Driven to solve real-world and complex engineering problems
+
 contact me at ajimals@mcmaster.ca
 [LinkedIn](https://www.linkedin.com/in/sehajajimal)
 
